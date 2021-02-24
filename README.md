@@ -38,8 +38,7 @@
 ![League Of Legend](https://img.shields.io/badge/League%20Of%20Legend-D32936?style=for-the-badge) ![Lost Ark](https://img.shields.io/badge/Lost%20Ark-222222?style=for-the-badge)
 
 #### My
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/K6dgsPq2Xw) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/initred.log/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:initred@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/initred.log/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:initred@gmail.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

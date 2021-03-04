@@ -55,20 +55,27 @@ I'm working at a startup and trying to solve the inconvenience.
 [Private Project]
 
 https://lolterra.com
+
 https://api.lolterra.com
+
 https://helper-d.vercel.app/
 
 🌱 I’m currently learning
+
 Next.js / React / Laravel
 
 👯 I’m looking to collaborate on
+
 None. However, I would like to work with op.gg or PS Analytics Inc.
 
 🤔 I’m looking for help with
+
 None.
 
 ⚡ Fun fact
+
 I always enjoy it. I don't do anything I don't want to do.
 
 💬 Do you have any questions about me?
+
 Contact me. I like to talk about business and development. Or anything else.

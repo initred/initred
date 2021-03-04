@@ -1,5 +1,12 @@
 ### Introduce
-I am Korean and a full stack developer.
+From: Korean
+Job: Full Stack Developer
+
+Currently, I'm interested in the online advertising business and I'm putting a lot of effort into connecting the networks of people who like League of Legends.
+
+Also, I'm interested in new technologies and UI/UX, but I'm using design and editing as a hobby or where I need them.
+
+I'm working at a startup and trying to solve the inconvenience.
 
 #### Stack
 ![Git](https://img.shields.io/badge/Git-F64935?style=for-the-badge&logo=Git&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=PostCSS&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white) ![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=Less&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=222222)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -38,15 +45,28 @@ I am Korean and a full stack developer.
 
 ![League Of Legend](https://img.shields.io/badge/League%20Of%20Legend-D32936?style=for-the-badge) ![Lost Ark](https://img.shields.io/badge/Lost%20Ark-222222?style=for-the-badge)
 
-#### My
+#### To Contact Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/initred.log/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:initred@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on
+
+[Private Project]
+
+https://lolterra.com
+https://api.lolterra.com
+https://helper-d.vercel.app/
+
+🌱 I’m currently learning
+Next.js / React / Laravel
+
+👯 I’m looking to collaborate on
+None. However, I would like to work with op.gg or PS Analytics Inc.
+
+🤔 I’m looking for help with
+None.
+
+⚡ Fun fact
+I always enjoy it. I don't do anything I don't want to do.
+
+💬 Do you have any questions about me?
+Contact me. I like to talk about business and development. Or anything else.

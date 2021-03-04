@@ -1,5 +1,7 @@
 ### Introduce
+
 From: Korean
+
 Job: Full Stack Developer
 
 Currently, I'm interested in the online advertising business and I'm putting a lot of effort into connecting the networks of people who like League of Legends.

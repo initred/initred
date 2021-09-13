@@ -52,7 +52,7 @@ I'm working at a startup and trying to solve the inconvenience.
 
 🔭 I’m currently working on
 
-[Private Project]
+#### Private Project
 
 https://lolterra.com
 

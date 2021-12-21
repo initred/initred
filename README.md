@@ -60,8 +60,6 @@ https://api.lolterra.com
 
 https://helper-d.vercel.app/
 
-Lostark Mokonote Preparing
-
 🌱 I’m currently learning
 
 Next.js / React / Laravel

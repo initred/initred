@@ -62,7 +62,7 @@ https://helper-d.vercel.app/
 
 🌱 I’m currently learning
 
-Next.js / React / Laravel
+Laravel, Vue
 
 👯 I’m looking to collaborate on
 

@@ -54,11 +54,13 @@ I'm working at a startup and trying to solve the inconvenience.
 
 #### Private Project
 
-https://lolterra.com
+https://leagueofclan.com
 
-https://api.lolterra.com
+https://api.leagueofclan.com
 
-https://helper-d.vercel.app/
+https://lolquiz.netlify.app
+
+https://helper-d.vercel.app
 
 🌱 I’m currently learning
 

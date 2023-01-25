@@ -68,7 +68,7 @@ Laravel, Vue
 
 👯 I’m looking to collaborate on
 
-None. However, I would like to work with op.gg or PS Analytics Inc.
+None. However, I would like to work with Big Picture Interactive, OP.GG, PS Analytics Inc.
 
 🤔 I’m looking for help with
 

@@ -47,7 +47,7 @@ I'm working at a startup and trying to solve the inconvenience.
 
 #### Like Game
 
-![League Of Legend](https://img.shields.io/badge/League%20Of%20Legend-D32936?style=for-the-badge) ![Lost Ark](https://img.shields.io/badge/Lost%20Ark-222222?style=for-the-badge)
+![League Of Legend](https://img.shields.io/badge/League%20Of%20Legend-D32936?style=for-the-badge)
 
 #### To Contact Me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/initred#9664) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:initred@gmail.com)

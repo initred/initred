@@ -58,8 +58,6 @@ I'm working at a startup and trying to solve the inconvenience.
 
 https://leagueofclan.com
 
-https://api.leagueofclan.com
-
 https://lolquiz.netlify.app
 
 https://helper-d.vercel.app

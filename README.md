@@ -62,9 +62,9 @@ https://lolquiz.netlify.app
 
 https://helper-d.vercel.app
 
-🌱 I’m currently learning
+🌱 I’m currently learning and use
 
-Laravel, Vue
+Laravel, React
 
 👯 I’m looking to collaborate on
 

@@ -56,7 +56,7 @@ I'm working at a startup and trying to solve the inconvenience.
 
 #### Private Project
 
-https://leagueofclan.com
+https://lolclan.gg
 
 https://lolquiz.netlify.app
 

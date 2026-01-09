@@ -26,22 +26,15 @@ I'm working at a startup and trying to solve the inconvenience.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=Sublime%20Text&logoColor=222222) ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=PhpStorm&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white) 
 
 #### Tool
-![Figma](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Table Plus](https://img.shields.io/badge/Table%20Plus-000000?style=for-the-badge) 
+![RayCast](https://img.shields.io/badge/Ray%20Cast-FF6363?style=for-the-badge) ![Figma](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Table Plus](https://img.shields.io/badge/Table%20Plus-000000?style=for-the-badge) 
 
 #### Comunication
 
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white) 
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white) 
 
 #### Music
 
 ![YouYube Music](https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=YouTube%20Music&logoColor=white)
-
-#### Interest
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white) ![WebAssembly](https://img.shields.io/badge/WebAssemlby-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white) ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=Deno&logoColor=white) ![C Sharp](https://img.shields.io/badge/C%20Sharp-239120?style=for-the-badge&logo=C%20Sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.Net-5C2D91?style=for-the-badge&logo=.Net&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=Blazor&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white) ![Algolia](https://img.shields.io/badge/Algolia-5468FF?style=for-the-badge&logo=Algolia&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=Spotify&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white) 
-
-#### Like Company
-
-![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=Microsoft&logoColor=white) ![DELL](https://img.shields.io/badge/DELL-007DB8?style=for-the-badge&logo=DELL&logoColor=white) ![ASUS](https://img.shields.io/badge/ASUS-000000?style=for-the-badge&logo=ASUS&logoColor=white) ![Samsung](https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=Samsung&logoColor=white) ![LG](https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=LG&logoColor=white) ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=Google&logoColor=white)  ![Razer](https://img.shields.io/badge/Razer-00FF00?style=for-the-badge&logo=Razer&logoColor=white) ![빅픽쳐인터렉티브](https://img.shields.io/badge/빅픽쳐인터렉티브-5383e8?style=for-the-badge) ![LOL.PS](https://img.shields.io/badge/LOL.PS-5383e8?style=for-the-badge) ![OP.GG](https://img.shields.io/badge/OP.GG-5383e8?style=for-the-badge) 
 
 #### Like Game
 

@@ -53,16 +53,6 @@ I'm working at a startup and trying to solve the inconvenience.
 #### Hobby Youtube AI Music Channel
 https://www.youtube.com/@DJYhwa
 
-🔭 I’m currently working on
-
-#### Private Project
-
-https://lolclan.gg
-
-https://lolquiz.netlify.app
-
-https://helper-d.vercel.app
-
 🌱 I’m currently learning and use
 
 Laravel, React
